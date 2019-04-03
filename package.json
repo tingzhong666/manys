@@ -1,6 +1,6 @@
 {
   "name": "manys",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Light weight Asynchronous Concurrency Control.",
   "main": "index.js",
   "scripts": {

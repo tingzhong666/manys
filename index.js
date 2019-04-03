@@ -41,7 +41,7 @@ function manys (arr, n, callback) {
                 // 将数据存入当前线程的数据存放数组中
                 datas.push(data);
                 // 输出队列进度
-                console.log('...' + l);
+                console.log('...队列：' + l + ' 正在运行的线程数：' + thread);
                 return queue(arr, callback).then(() => resolve()).catch(err => reject(err));
               })
               .catch(err => reject(err));
