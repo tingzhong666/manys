@@ -1,0 +1,25 @@
+{
+  "name": "manys",
+  "version": "1.0.0",
+  "description": "Light weight Asynchronous Concurrency Control.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tingzhong666/manys.git"
+  },
+  "keywords": [
+    "manys",
+    "Asynchronous",
+    "Concurrency",
+    "Control"
+  ],
+  "author": "tingzhong666",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tingzhong666/manys/issues"
+  },
+  "homepage": "https://github.com/tingzhong666/manys#readme"
+}
